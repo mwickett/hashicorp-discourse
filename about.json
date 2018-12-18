@@ -3,7 +3,7 @@
   "about_url": "URL",
   "license_url": "URL",
   "assets": {
-    "bgimg": "https://discourse-cloud-file-uploads.s3.dualstack.us-west-2.amazonaws.com/hashicorp/original/1X/f52012180b310150b1dfc80826473ac83dac8ba1.webp"
+    "$bgimg": "https://discourse-cloud-file-uploads.s3.dualstack.us-west-2.amazonaws.com/hashicorp/original/1X/f52012180b310150b1dfc80826473ac83dac8ba1.webp"
   },
   "color_schemes": {
     "hashi": {
