@@ -1,0 +1,40 @@
+@import 'common/foundation/variables'; // Pulls in Discourse SASS variables
+
+$border-radius: 2px;
+
+.list-controls .nav-pills > li {
+  border-color: $tertiary;
+  color: $tertiary;
+  border-radius: $border-radius;
+}
+
+.nav-pills > li > a {
+  color: $tertiary;
+}
+
+.user-main .about.collapsed-info .details {
+  background: #222;
+}
+
+.mobile-view .mobile-nav {
+  border: 1px solid $tertiary;
+  color: $tertiary;
+  background: transparent;
+  border-radius: $border-radius;
+}
+
+.mobile-view .mobile-nav .drop.expanded {
+  border-color: $primary-very-low;
+}
+
+#topic-footer-buttons {
+  .select-kit.combo-box .select-kit-header {
+    border: 1px solid $tertiary;
+    border-radius: $border-radius;
+    color: $tertiary;
+  }
+}
+
+#topic-title h1 a {
+  line-height: 1.2;
+}

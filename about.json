@@ -1,0 +1,22 @@
+{
+  "name": "hashicorp-discourse",
+  "about_url": "URL",
+  "license_url": "URL",
+  "assets": {
+    "bgimg": "https://discourse-cloud-file-uploads.s3.dualstack.us-west-2.amazonaws.com/hashicorp/original/1X/f52012180b310150b1dfc80826473ac83dac8ba1.webp"
+  },
+  "color_schemes": {
+    "hashi": {
+      "primary": "ffffff",
+      "secondary": "000000",
+      "tertiary": "1563ff",
+      "quaternary": "1563ff",
+      "header_background": "000000",
+      "header_primary": "ffffff",
+      "highlight": "d9e1e6",
+      "danger": "ca2171",
+      "success": "00bc7f",
+      "love": "5f43e9"
+    }
+  }
+}
